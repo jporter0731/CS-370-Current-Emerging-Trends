@@ -1,7 +1,9 @@
 # CS-370-Current-Emerging-Trends
 
 ### Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
-
+To begin this project, I was given a treasue hunt game where the player was tasked with beating an intelligent agent to a treasure chest. For this project, I was tasked with developing code for the intelligent "pirate" agent for our treasure hunt game. This agent was tasked with learning a path through a maze to beat the user to the chest. Even though I was tasked with writing some of the code, I did not have to write code for the maze or how the maze is represented in matrix form. I also did not have to write the rules that the entity had to follow such as how to move up, down, left, and right. Lastly, I did not write how the entity was rewarded and punished for good and bad moves.
 ### What do computer scientists do and why does it matter?
+Computer scientists are responsible for a lot of things around the world. Anything that requires at least one line of code required someone to right that line and maintain it. This can be in anything from cars to cell phones and everything in between and it all has to be written and maintained. This all matters because we rely so much on technology that it all needs to be done effectively and ethically. If even one person decides that they want to write a malicious piece of code then a whole bunch of bad consequences could come about. For example, if someone writting code for a car company and decided to change the code that represents the accelerater so that it speeds up uncontrolably think of the repurcussions.
 ### How do I approach a problem as a computer scientist?
+As a computer scientist, it is important to plan your approach before you get too far in and have to start over from scratch. Though I did not have a restarting experience with this project, I have definately had that issue on previous projects. Another thing to consider when approaching a problem is 
 ### What are my ethical responsibilities to the end user and the organization?
